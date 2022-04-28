@@ -1,0 +1,651 @@
+Coins,Type,Mechanism ,Multi-Sig Hot,Multi-Sig Custody,TSS Hot,TSS Custody,Trade,Staking,OVC,WRW,Type of Coin,Blockchain,Testnet
+0x · ZRX,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+1INCH Token · 1INCH,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+AAVE,ERC20 token,Proof of work,TRUE,TRUE,,,x,x,TRUE,TRUE,Account-based,Ethereum,x
+Ac Exchange Token · ACXT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ace Token ACE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aelf · ELF,ERC20 token,Proof of work,x,x,,,x,x,TRUE,x,Account-based,Ethereum,x
+Aergo,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aergo · AERGO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aergo1 · AERGO1,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aeternity · AE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AGARWOOD · AGWD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aion · AION,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AirSwap · AST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Akash,ERC20 token,Proof of work,2022 Q4,2022 Q4,,,,2024+,x,,Account-based,Ethereum,x
+Alchemy Pay · ACH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Algorand,Coin,Proof of Stake,TRUE,TRUE,,,H1 2022,Hot+Custody,TRUE,,Account-based,Algorand,TRUE
+Algorand USDC · USDC,Algorand token,Proof of Stake,TRUE,TRUE,,,H1 2022,Hot+Custody,TRUE,,Account-based,Algorand,x
+Algorand USDT · USDT,Algorand token,Proof of Stake,TRUE,TRUE,,,H1 2022,Hot+Custody,TRUE,,Account-based,Algorand,x
+Almeela · KZE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Alpha Finance · ALPHA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Alpha Quark Token · AQT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AlphaSlot · SLOT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AMO Coin · AMO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Amon · AMN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AmonD · AMON,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Amp Token · AMP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ampleforth Governance Token · FORTH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Amplify · AMPX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ANA · ANA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+AnchorUSD · USDX,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Api3,ERC20 token,Proof of work,2022 Q1,2022 Q1,,,x,2024+,,,Account-based,Ethereum,x
+AppCoins · APPC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aquarius · AQUA,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Aragon · ANT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ArcBlock · ABT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ArCoin US Treasury,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ArCoin US Treasury · ARCT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ARCx Governance Token · ARCX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ardor,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,Account-based,Ardor,x
+Argentine Stable Coin · ARST,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Ark,Coin,Delegated Proof-of-Stake,2024 +,2024 +,,,,2024+,,,,Ark,x
+Artificial Liquid Intelligence · ALI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Atari Token · ATRI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Audio · AUDIO,ERC20 token,Proof of work,TRUE,TRUE,,,,,TRUE,TRUE,Account-based,Ethereum,x
+Augur · REP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Aurora · AOA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Avalanche,Coin,Proof of Stake,2021 Q4,2021 Q4,,,,2022 Q1,,x,UTXO,Avalanche,x
+Avalanche C,Coin,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,x,UTXO,Avalanche,TRUE
+AvaLaunch · XAVA,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,x,UTXO,Avalanche,x
+Axie Infinity,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 Q1,TRUE,TRUE,Account-based,Ethereum,x
+Axie Infinity Shard v2 · AXSv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Axie Infinity Shards · AXS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+aXpire · AXPR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Baanx · BXX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BABB · BAX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Badger · BADGER,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Balancer · BAL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bancor · BNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Band Protocol · BAND,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+Bankera · BNK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bankless BED Index · BED,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BarnBridge · BOND,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BASIC · BASIC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Basic Attention Token · BAT,ERC20 token,Proof of work,TRUE,TRUE,,,x,n/a,TRUE,TRUE,Account-based,Ethereum,x
+Basiscoin Cash · BCC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BBX · BBX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BCAP · BCAP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Beefy.Finance,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BenQi · Qi,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,x,UTXO,Avalanche,x
+BetProtocol,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BetProtocol · BEPRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Biconomy · BICO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bilira Token · TRYB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Binance Smart Chain,Coin,Proof of Staked Authority,2022 Q4,2022 Q4,,,,2023 Q1,,,Account-based,BEP-20,
+Binance USD · BUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BirdCoin · BIRD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bistox Exchange Token · BSX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bitbay,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Bitbay,
+Bitcoin,Coin,Proof of Work,TRUE,TRUE,,,TRUE,N/A,TRUE,TRUE,UTXO,Bitcoin,TRUE
+Bitcoin Cash,Coin,Proof of Work,TRUE,TRUE,,,TRUE,N/A,TRUE,TRUE,UTXO,Bitcoin,TRUE
+Bitcoin Gold,Coin,Proof of Work,TRUE,TRUE,,,TRUE,N/A,TRUE,TRUE,UTXO,Bitcoin,TRUE
+BitDAO · BIT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bitfinex LEO · LEO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BitGo Shield Token · BST,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+BitMax Token,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+BitNational · BNL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blockbid · BID,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blockbid · BIDL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blockchain.io · BCIO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blockpass · PASS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BLOCKS · BLOCKS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blocktrade · BTT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Blox · CDT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Bounty0x · BNTY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Braintrust · BTRST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Brazilian Digital Token · BRZ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Brazilian Stable Coin · BRLT,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Bread · BRD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BTU Protocol · BTU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+buying.com · BUY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+BZZ · BZZ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+C8 Plus · C8P,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CACXT · CACXT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CannDollar · CDAG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Capdax Token · XCD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cardano,Coin,Proof of Stake,2022 Q3,2022 Q3,,,x,2022 Q3,,,UTXO,Cardano,
+Carry · CRE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cartesi · CTSI,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+CashBet Coin · CBC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Casper,Coin,Proof of Stake,TRUE,TRUE,,,x,Hot+Custody,TRUE,,,Casper,
+Caspian · CSP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Celer Network · CELR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Celo,Coin,Proof of Stake,TRUE,TRUE,,,x,2022 H2,TRUE,,Account-based,Celo,TRUE
+Celsius · CEL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ceramic Token · FIRE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CertiK,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,CertiK,
+Chainlink · LINK,ERC20 token,Proof of work,TRUE,TRUE,,,TRUE,,TRUE,TRUE,Account-based,Ethereum,x
+ChainX,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,ChainX,
+Change · CAG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Changer · CNG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Changer Token · CFX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Chiliz · CHZ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Chintai · CHEX,EOS token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q3,TRUE,TRUE,Account-based,EOS,
+Civic · CVC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Clover · CLV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CoinBurp · BURP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Coineru Gold · CGLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Coineru Platinum · CPLT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Coineru Silver · CSLV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CoinLion - R · LION,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CoinLoan Token · CLT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CoinquistaCoin · CQX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CoinZoom · ZOOM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Colu Local Network · CLN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound Augur · CREP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound BAT · CBAT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound DAI · CDAI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound Ether · CETH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound Token · COMP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound USDC · CUSDC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound WBTC · cWBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Compound ZRX · CZRX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Content Box · BOX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Convex Finance · CVX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cosmos,Coin,Proof of Stake,2022 Q3,2022 Q3,,,x,2022 Q3,,,,Cosmos,
+Covalent · CQT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cover Protocol · COVER,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CRDT · CRDT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cream · CREAM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cred · LBA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cross Exchange Token · XEX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Crypterium · CRPT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Crypto.com · MCO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Crypto.com Chain · CRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CryptoBRL · CBRL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Cryptoindex 100 · CIX100,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CryptoPay · CPAY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Curve DAO,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 Q1,TRUE,TRUE,Account-based,Ethereum,x
+Curve DAO Token · CRV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+CUSD,Celo token,Proof of Stake,TRUE,TRUE,,,x,2022 H2,TRUE,,Account-based,Celo,TRUE
+Cyber Credit Token · CCT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+D Market · DMT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dacxi Coin · DACXI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dacxi Gold Token · DXGT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dacxi Silver Token · DXST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DAI · DAI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dai · MCDAI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DAO Maker · DAO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DAOstack · GEN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dark Energy Crystals · DEC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dash,Coin,Proof of work,TRUE,TRUE,,,H1 2022,Hot+Custody,TRUE,TRUE,UTXO,Dash,TRUE
+Data Economy Index · DATAECON,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DEAPcoin · DEP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Decentraland (MANA),ERC20 token,Proof of work,Q1 2022,Q1 2022,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Decision Token · HST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Decred,Coin,Proof of work,2022 Q4,2022 Q4,,,,2023 H1,,,,Decred,
+DeFi Pulse Index · DPI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Defibox · DEFI,EOS token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q3,TRUE,TRUE,Account-based,EOS,
+DeFiChain,Coin,hybrid Proof of Stake / Proof of Work,2022 Q4,2022 Q4,,,,2024+,,,,DeFiChain,
+DeFiChain · DFI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DefiCliq · CLIQ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DeFiDollar DAO · DFD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DeFiPie · PIE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dent · DENT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dexa Coin · DEXA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DGCL · DGCL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Digg · DIGG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Digix · DGX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DigixDAO · DGD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Divi,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Divi,
+Dodge,Coin,Proof of Work,x,x,,,x,N/A,,,,Dodge,
+DODO · DODO,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+Drive · DRV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DRP Utility · DRPU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DUING Coin · DUC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DX1U · DX1U,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+DXPT · DXPT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+dYdX · DYDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Dyn Token · DYNS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+e-Money,Coin,,2024 +,2024 +,,,,2024+,,,,e-Money,
+EasyFi · EASY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eChat · ECHT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EcoTech · ETV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Eden · EDN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Edgeware,Coin,Nominated Proof-of-Stake,2024 +,2024 +,,,,2024+,,,,Edgeware,
+Edison · EDISON,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Efinity · EFI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eGold · EGL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Elrond,Coin,Proof of Stake,2022 Q3,2022 Q3,,,,2022 Q4,,,,Elrond,
+Elrond Gold · EGLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EmberBTCQuant · EBTCQ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EMX · EMX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Endor Protocol · EDR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Enigma · ENG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Enjin,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Enjin Coin - R · ENJ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EOS,Coin,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q3,TRUE,TRUE,Account-based,EOS,
+EQUOS Origin · EQO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ETA Token · ETA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ethereum,Coin,Proof of work,TRUE,TRUE,,,TRUE,Hot+Custody - Feb 18,TRUE,TRUE,Account-based,Ethereum,x
+Ethereum Classic ETC,Coin,Proof of Work,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,ETC,
+Ethereum Name Service · ENS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EthLend · LEND,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ethos · ETHOS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Australian Dollar · AUDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Canadian Dollar · CADX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Chinese Yuan · CNYX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Euro · EURX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Gold · GLDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Hong Kong Dollar · HKDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Japanese Yen · JPYX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro New Zealand Dollar · NZDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Polish Zloty · PLNX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Pound Sterling · GBPX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Russian Ruble · RUBX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Silver · SLVX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Singapore Dollar · SGDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro South African Rand · ZARX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Swiss Franc · CHFX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro Turkish Lira · TRYX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+eToro United States Dollar · USDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+EUR Stable Token · EUX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Everex · EVX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Everipedia · IQ,EOS token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q3,TRUE,TRUE,Account-based,EOS,
+Exe Token · EXE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fantom,Coin,Proof of Stake,2022 Q3,2022 Q3,,,,2022 Q4,,,,Fantom,
+Fantom · FTM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fei Protocol · FEI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fetch · FET,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fiat DAO · FDT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fight To Fame Token · FFT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Filecoin,BNB Token,N/A,x,x,,,x,?,,,Account-based,BEP20,
+FingerprintsDAO · PRINTS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Firo,Coin,Proof of Work,2024 +,2024 +,,,,2024+,,,,Firo,
+Flow,Coin,Proof of Stake,2022 Q3,2022 Q3,,,,2022 Q4,,,,Flow,
+Formosa Financial · FMF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Frax Share · FXS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Friends With Benefits Pro · FWB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+FTX Token · FTT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+FunFair · FUN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Fuse,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+FXRT · FXRT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gala · GALA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Game X · GXC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gamma · GAMMA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+GDT · GDT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+GECoin · GEC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gemini Dollar · GUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Genohub · GHUB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gifto · GTO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+GIG-POOL-DROP · GIGDROP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+GMO JPY · GYEN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gnosis · GNO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Gods Unchained · GODS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+GoExchange · GOT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Golem · GLM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Golem · GNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Governance Olpymus · gOHM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Graph,ERC20 token,Proof of work,2022 Q1,2022 Q1,,,H1 2022,2022 Q1,TRUE,,Account-based,Ethereum,x
+Guild of Guardians · GOG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+HalalChain · HLC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Harmony,Coin,Effective Proof of Stake,2023 H2,2023 H2,,,,2023 H2,,,,Harmony,
+Hedera,Coin,Hashgraph Consensus,TRUE,TRUE,,,H1 2022,N/A,TRUE,,,Hedera,
+HedgeTrade · HEDG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Himalaya Coin · HCN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,TRUE
+Himalaya Dollar · HDO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,TRUE
+Hive,?,,2024 +,2024 +,,,,2024+,,,,Hive,
+Hold · HOLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Holo · HOT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Horizen,Coin,hybrid Proof of Stake / Proof of Work,2022 Q4,2022 Q4,,,,2024+,,,,Horizen,
+HUMAN Token · HMT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+HumanSpace · HUM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Huobi Token · HT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Hxro · HXRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Hybrid Block · HYB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Hydra,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,TRUE,,,Hydra,
+Hydrogen · HYDRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+HyperQuant · HQT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+I8 Exchange Token · i8,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ICONICX,Coin,Proof of Stake,2023 H2,2023 H2,,,,2023 H2,TRUE,,,ICONICX,
+Idex,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+IDEX · IDEX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Immutable X · IMX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Immutable X · IMXv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Index Coop · INDEX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Indexed Finance · NDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Indorse · IND,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Infinitus Token · INF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+INJ · INJ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Injective Token · INJv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Instadapp · INST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Insureum · ISR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+InternationalCryptoX · INCX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Internet Computer,Coin, chain key technology,2022 Q4,2022 Q4,,,,2023 Q1,,,,Internet Computer,
+INVAO Token · IVO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+INX · INX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+IONIAX Token · NIAX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+IOST,Coin,Proof of Believability,2023 H2,2023 H2,,,,2024+,,,,IOST,
+IoTeX,Coin,roll-delegated proof of stake,2022 Q4,2022 Q4,,,,2024+,,,,IoTeX,
+IRISnet,Coin,Delegated Proof-of-Stake,2024 +,2024 +,,,,2024+,,,,IRISnet,
+iShook · SHK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ivy · IVY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Japan Brand Coin · JBC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+JFIN Token · JFIN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Kalao · KLO,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,,UTXO,Avalanche,x
+KardiaChain,Coin,Delegated Proof-of-Stake,2024 +,2024 +,,,,2024+,,,,KardiaChain,
+Kava,ERC20 token,Proof of work,2022 Q1,2022 Q1,,,x,2024+,TRUE,,Account-based,Ethereum,x
+KEEP · KEEP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Keep3rV1 · KP3R,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Kin · KIN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Kirobo · KIRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Koin · KOIN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+KOZJIN Token · KOZ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Kusama,Coin,Proof of Stake,2022 Q4,2022 Q4,,,,2022 Q4,,,,Kusama,
+Kyber Network · KNC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Kyber Network · KNC2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Legolas · LGO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Lido · LDO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+LINK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Linker Coin · LNC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Lisk,Coin,Delegated Proof of Stake.,2023 H2,2023 H2,,,,2024+,,,,Lisk,
+Litecoin,Coin,Proof of Work,TRUE,TRUE,,,TRUE,N/A,TRUE,TRUE,UTXO,Litecoin,
+Livepeer,Coin,Proof of Stake,TRUE,TRUE,,,,2022 H2,TRUE,,,Livepeer,
+LooksRare · LOOKS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Loom Network · LOOM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Loom Token · LOOM1,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Loopring · LRC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Loopring V2 · LRCv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+LTO Network,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,TRUE,,,LTO Network,
+Lynchpin · LYN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MachiX Token · MCX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Mainframe · MFT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Maker · MKR,ERC20 token,Proof of work,TRUE,TRUE,,,H1 2022,,TRUE,TRUE,Account-based,Ethereum,x
+Mandala · MDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Maple · MPL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Maps · MAPS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Mass Vehicle Ledger · MVL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Matic · MATIC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MCS Token · MCS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MDFC · MDFC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Medibloc · MEDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Meme · MEME,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MenaPay · MPAY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Metadium · META,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Metal · MTL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Metaverse Index · MVI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Metronome · MET,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MFPH · MFPH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Mina,Coin,Proof of Stake,2023 H2,2023 H2,,,,2023 H2,,,,Mina,
+Mirror Protocol,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+Mirror Protocol · MIR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Mithril · MITH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+MixMarvel · MIX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Miznettk · MIZN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Molecular Future · MOF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Monnos Token · MNS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Moss Coin · MOC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+mStable USD · MUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Multiven · MTCN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Naira Token · NGNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+NEAR Protocol,Coin,Proof of Stake,TRUE,TRUE,,,,2022 Q1,TRUE,,,NEAR Protocol,
+Nebulas · NAS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+NEM,Coin,Proof-of-Importance and Harvesting,2022 Q4,2022 Q4,,,x,2024+,,,,NEM,
+Neumark · NEU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+New Silver Series 2 DROP · NS2DRP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Nexo · NEXO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+NFTX · NFTX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+NuCypher · NU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Numeraire · NMR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Nym · NYM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Oasis Network,Coin,Proof of Stake,2022 Q4,2022 Q4,,,,2024+,,,,Oasis Network,
+Ocean Token · OCEAN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Olympus DAO · OHM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Om Token · OM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+OmiseGo · OMG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+On.Live · ONL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ontology,Coin,"VBFT, which combines three different models. These are Proof-of-Stake (PoS), Byzantine Fault Tolerant (BFT) and Verifiable Random Function (VRF)",2024 +,2024 +,,,,2024+,,,,Ontology,
+Opiria Token · PDATA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+OPTin · OPT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Orai Token · ORAI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Orbs,Coin,Proof of Stake,2022 Q1,2022 Q1,,,,2024+,,,,Orbs,
+ORBS Token · ORBS,ERC20 token,Proof of work,TRUE,TRUE,,,x,2024+,TRUE,TRUE,Account-based,Ethereum,x
+Orchid · OXT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Origin Protocol,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+Origin Token · OGN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Oxygen Prime Brokerage · OXY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PancakeSwap,ERC20 token,Proof of work,2022 Q4,2022 Q4,,,x,2022 Q4,TRUE,,Account-based,Ethereum,x
+Pangolin · PNG,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,,UTXO,Avalanche,x
+PAR Stable Coin · PAR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ParamountDax · PRDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Pax Gold · PAXG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Paxos Standard Token · PAX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PEAKDEFI PEAK,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+PegBitCoin Cash Token · PBCH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegBitCoin Token · PBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegEthereum Token · PETH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegFactom Token · PFCT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegGold Token · PAU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegNet · PEG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PegUSD Token · PUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Perpetual Protocol · PERP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Persistence,ERC20 token,Proof of work,2022 Q1,2022 Q1,,,x,2024+,TRUE,,Account-based,Ethereum,x
+Phantasma,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+PhoenixDAO · PHNX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PLANET · PLANET,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PLN Stable Token · PLX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PlusCoin · PLC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PointPay Crypto Banking Token V2 · PXP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Polkadot,Coin,Proof of Stake,x,x,2022 Q1,2022 Q1,Q3 2022,2022 Q1,,,,Polkadot,
+Polygon (MATIC),ERC20 token,Proof of work,Q3 2022,Q3 2022,,,H1 2022,Q3 2022,TRUE,,Account-based,Ethereum,x
+Polymath · POLY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Polyswarm · NCT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Populous · PPT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Power Ledger · POWR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Project Galaxy · GAL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Propy · PRO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Protos · PRTS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+pSTAKE Finance · PSTAKE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+PumaPay · PMA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Pundi X · NPXS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Pundi X2 · PUNDIX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+QASH · QASH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+QCAD · QCAD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Qredo · QRDO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Qtum,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Qtum,
+Quadrans Token · QDT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Quant · QNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+QuantStamp · QSP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Quantum Resistant Ledger · QRL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+QuickSwap · QUICK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Qvolta · QVT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Radicle · RAD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Raiden Network Token · RDN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rally · RLY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rapids,?,,2024 +,2024 +,,,,2024+,,,,Rapids,
+Rari Governance Token · RGT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rarible · RARI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rebellious · REBL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rebglo · REB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Reddcoin,Coin,Proof of Stake Velocity,2024 +,2024 +,,,,2024+,,,,Reddcoin,
+Reef · REEF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Referium · RFR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Regen Network,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Regen Network,
+Render Token · RNDR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rialto · XRL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+RIF Token · RIF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+RINGX Token · RINGX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+RioDeFi · RFUEL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ripple,Coin,Proof of Work,TRUE,TRUE,,,x,N/A,TRUE,TRUE,Account-based,Ripple,
+RLC · RLC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Roncoin · RONC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ROOBEE · ROOBEE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+RSK,Coin,Proof of Work,TRUE,TRUE,,,x,N/A,TRUE,,UTXO,RSK,
+RSK Smart Bitcoin · RBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ruby X · RBY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Ruedacoin · RUEDATK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rupiah · IDRT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Rupiah Coin · IDRC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Saga Token · SGA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Salient Investment Holding · SIH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Salt · SALT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SAND · SAND,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SashimiToken · SASHIMI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Secret Network,Coin,Delegated Proof of Stake.,2022 Q4,2022 Q4,,,,2024+,,,,Secret Network,
+SelfKey · KEY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Sentinel,Coin,Proof of Stake,2024 +,2024 +,,,x,2024+,,,,Sentinel,
+Sentinel Protocol · UPP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Serenity · SRNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+ShareRing · SHR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Shiba Inu · SHIB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Sifchain,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Sifchain,
+SIX Network · SIX,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+SKALE,ERC20 token,Proof of work,TRUE,TRUE,,,x,Hot+Custody,TRUE,TRUE,Account-based,Ethereum,x
+SKALE Network · SKALE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SLAB · SLAB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Smartlands · SLT,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Smooth Love Potion · SLP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Snovio · SNOV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Soda Coin · SOC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Sogur · SGR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Solana,Coin,Proof of Stake,x,x,2022 Q1,2022 Q1,Q3 2022,2022 Q1,,,,Solana,
+Solve · SOLVE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Spaceswap · MILKv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Sparrow Options · SPO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Splyt Core Token · SHOPX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Stacks,Coin,Proof of Transfer (Stake),TRUE,TRUE,,,x,Hot+Custody,TRUE,,,Stacks,
+Stader · SD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Stafi Protocol,Coin,Proof of Stake,2022 Q2,2022 Q2,,,,2024+,,,,Stafi Protocol,
+Stafi Protocol,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+Staked AAVE · stkAAVE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Staked Olympus · sOHM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+stakedZEN · stZEN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+STASIS EURS · EURS,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Status Network Token · SNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Stellar,Coin,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,
+Stellarport,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Stobox Token · STBU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+STORE · STORE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Storj · STORJ,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Storm · STORM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+StormX,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+StraitsX · XSGD,ERC20 token,Proof of work,2024 +,2024 +,,,,2024+,TRUE,,Account-based,Ethereum,x
+Streamr Data · DATAv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Streamr Data Coin · DATA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Student Coin · STC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Student Coin V2 · STCv2,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SunContract · SNC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SuperRare · RARE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SushiToken · SUSHI,ERC20 token,Proof of work,TRUE,TRUE,,,H1 2022,2022 H2,TRUE,,Account-based,Ethereum,x
+SusNova · ISF,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,,Account-based,Ethereum,x
+Swipe · SXP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+SwissBorg · CHSB,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+Switcheo,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+SyncFab · MFG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Synthetix,ERC20 token,Proof of work,TRUE,TRUE,,,H1 2022,,TRUE,TRUE,Account-based,Ethereum,x
+Synthetix Network · SNX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Synthetix Network Token,ERC20 token,Proof of work,2023 H2,2023 H2,,,x,2023 H2,TRUE,,Account-based,Ethereum,x
+SysCoin,Coin,hybrid Proof of Work and Proof of Stake consensus mechanism,2024 +,2024 +,,,x,2024+,,,,SysCoin,
+Tael · WABI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tap · XTP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+tBTC · tBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Telcoin · TEL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Telos,ERC20 token,Proof of work,2022 Q2,2022 Q2,,,x,2024+,TRUE,,Account-based,Ethereum,x
+Ten X · TENX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TenX · PAY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Terra,Coin,Proof of Stake,2022 Q2,2022 Q2,,,,2022 H2,,,,Terra,
+TerraUSD · UST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tether · USDT,EOS token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q3,TRUE,TRUE,Account-based,EOS,
+Tether · USDT,ERC20 token,Proof of work,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,Account-based,Ethereum,x
+Tether EUR · EURT,ERC20 token,Proof of work,TRUE,TRUE,,,No,,TRUE,TRUE,Account-based,Ethereum,x
+Tether USD · USDT.e,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,,UTXO,Avalanche,x
+Tezos,Coin,Proof of Stake,TRUE,No,,,x,Hot,TRUE,,,Tezos,
+The Graph · GRT,ERC20 token,Proof of work,2022 Q1,2022 Q1,,,,2022 Q1,,,Account-based,Ethereum,x
+Think Coin · TCO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Thorchain,MultiChain Coin,Proof of Bond,2022 Q1,2022 Q1,,,x,2024+,,,,Thorchain,x
+Threshold · T,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tierion · TNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tixl · TXL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TKNT · TKNT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TLAB · TLAB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tokenize · TKX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tokenomy · TEN,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tokenplace · TOK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TomoChain,Coin,Proof-of-Stake Voting,2024 +,2024 +,,,,2024+,,,,TomoChain,
+TON Crystal,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,TON Crystal,
+Trade Token X · TIOX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Trader Joe · JOE,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,,UTXO,Avalanche,x
+Triall Token · TRL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tribe · TRIBE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Tron,Coin,Proof of Work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,,Tron,
+TRU · TRU,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TrueAUD · TAUD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TrueCAD · TCAD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TrueGBP · TGBP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TrueHKD · THKD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+TrueUSD · TUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Two Prime FF1 · FF1,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Uma Voting Token · UMA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Umee · UMEE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Unbound Protocol · UNB,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Unicorn AIR Seciruty Token · UAIR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Unicorn SPX Security · USPX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Unicorn Tokenization Robinhood Shares · URHD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+UnikoinGold · UKG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+UniLayer · LAYER,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+UnirisToken · UCO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Uniswap Token · UNI,ERC20 token,Proof of work,TRUE,TRUE,,,H1 2022,,TRUE,TRUE,Account-based,Ethereum,x
+Universal Bitcoin · UPBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Universal Protocol Token · UPT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Universal US Dollar · UPUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+UpToken · UP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Uptrennd Token · 1up,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Uquid Coin · UQC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+US Gold · USG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+USD COIN · USDC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+USD Coin · USDC,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+USD Coin · USDC.e,Avalanche token,Proof of Stake,TRUE,TRUE,,,H1 2022,2022 Q2 (P chain),TRUE,,UTXO,Avalanche,x
+USD Stable Token · USX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+UTrust · UTK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+V Systems,?,,2024 +,2024 +,,,x,2024+,,,,V Systems,
+Valor Token · VALOR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Vega Protocol · VEGA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Velo Token · VELO,Stellar token,Fedrated Byzantine Agreement,TRUE,TRUE,,,H1 2022,N/A,TRUE,,Account-based,Stellar,x
+Vesper · VSP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Vinx Coin · VXC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Visor.Finance · VISR,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Vodi X · VDX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+VroomGo · VRGX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WadzPay · WTK,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WAFL Token · WAFL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WalletPlusX · WPX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WaltonChain · WTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wanchain,Coin,Proof of Stake,2024 +,2024 +,,,,2024+,,,,Wanchain,
+Waves,Coin,Leased Proof of Stake,2022 Q4,2022 Q4,,,,2023 Q1,,,,Waves,
+WAX,Coin,Delegated Proof-of-Stake,2023 H2,2023 H2,,,,2023 H2,,,,WAX,
+We Show · WET,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WeTrust · TRST,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+WHALE · WHALE,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Whatshalal Token · WHT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Whole Earth Coin · WEC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wilder World · WILD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wirex · WXT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Worldwide Asset eXchange · WAX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped Bitcoin · WBTC,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped Centrifuge · WCFG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped Luna · WLUNA,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped NXM · WNXM,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped stETH · WSTETH,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Wrapped XRP · WXRP,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+XAUD Token · XAUD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+xbullion · GOLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+XBullion Silver · SILV,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+XBullion Token · XBGOLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+xSUSHI · xSUSHI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Yearn.Finance · YFI,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+Yearn.Finance · YFI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Yespeer,ERC20 token,Proof of work,TRUE,TRUE,,,x,2022 H2,TRUE,TRUE,Account-based,Ethereum,x
+YfDAI.finance · YF-DAI,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+YFII.Finance · YFII,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Yield · YLD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Yield Guild Games · YGG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Young Token · YNG,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+YSEY Utility Token · YSEY,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Z.com USD · ZUSD,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Zcash,Coin,Proof of Work,TRUE,TRUE,,,H1 2022,N/A,TRUE,TRUE,,Zcash,
+Zebi Coin · ZCO,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Zeex Token · ZIX,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Zelwin · ZLW,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Zilliqa · ZIL,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x
+Zipmex · ZMT,ERC20 token,Proof of work,TRUE,TRUE,,,x,,TRUE,TRUE,Account-based,Ethereum,x

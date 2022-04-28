@@ -73,7 +73,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <div style={{ height: 400, width: "100%" }}>
           <DataGrid
             className="Table"
